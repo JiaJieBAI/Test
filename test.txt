@@ -1,3 +1,8 @@
-this is test file
+﻿this is test file
 
 这次将远程仓库的文件同步到本地项目中。
+
+
+将远程仓库的文件pull到了本地，
+
+fetch是合并分支的作用，pull是将代码同步到本地的作用，。
